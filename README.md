@@ -21,7 +21,7 @@ git clone https://github.com/gabrielgonta/AnalystBooks.git
 Create and activate a virtual environment :
 
 ```
-python -m venv env
+python3 -m venv env
 source env/bin/activate
 ```
 
